@@ -1,0 +1,16 @@
+# Entorno virtual
+.venv/
+
+# Videos de prueba
+sample_videos/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Modelos descargados (pesan mucho)
+*.pt

@@ -1,5 +1,5 @@
 """
-main.py
+detectar.py
 Detección de motos, bicicletas y perros en un video usando YOLO (Ultralytics).
 
 Uso:
